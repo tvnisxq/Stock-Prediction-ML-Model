@@ -4,3 +4,10 @@ tensorflow
 jupyter
 matplotlib
 seaborn
+yfinance
+keras
+streamlit
+sklearn
+mplfinance
+datetime
+altair
