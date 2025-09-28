@@ -10,8 +10,6 @@ SETUP:
 2. Install Dependencies:
     pip install -r requirements.txt
 
-3. Run notebooks in notebooks/ for experimentation.
-
 PROJECT STRUCTURE:
 
 • src/: Source code
